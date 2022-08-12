@@ -1,0 +1,3 @@
+[submodule "airflow-docker/plugins/Utils_Python"]
+	path = airflow-docker/plugins/Utils_Python
+	url = https://github.com/zaimzazali/Utils_Python.git
